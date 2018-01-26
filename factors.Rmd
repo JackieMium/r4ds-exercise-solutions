@@ -94,7 +94,7 @@ gss_cat %>%
   geom_point() +
   theme(axis.text.x = element_text(angle = 90))
 ```
-
+不一样的**气泡图**，很有意思
 
 ## Modifying factor order
 
